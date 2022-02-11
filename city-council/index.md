@@ -1,3 +1,9 @@
+## City Council transcripts
+
+Disclaimer: This is an UNOFFICIAL site hosted by a community member for the benefit of other community members.  We are not affiliated with the government or staff of the city of Fremont, and we provide no warranties or guarantees about the content found here.
+
+These transcripts are saved from the closed captions from City Council meetings.
+
 [2021-04-06](/city-council/2021-04-06.txt)
 
 [2021-04-20](/city-council/2021-04-20.txt)
