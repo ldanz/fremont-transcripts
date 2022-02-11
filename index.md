@@ -4,6 +4,8 @@ The city is (as of this writing) currently running meetings over Zoom rather tha
 
 Some transcripts may be missing or incomplete.  If you have a more complete version of a transcript that's missing or incomplete, feel free to open a pull request on the gh-pages branch of [github.com/ldanz/fremont-transcripts](https://github.com/ldanz/fremont-transcripts).
 
+---
+
 [City Council transcripts](/city-council)
 
 [Planning Commission transcripts](/planning-commission)
