@@ -15,3 +15,5 @@ These transcripts are saved from the closed captions from Planning Commission me
 [2022-02-24](/planning-commission/2022-02-24.txt)
 
 [2022-03-24](/planning-commission/2022-03-24.txt)
+
+[2022-04-14](/planning-commission/2022-04-14.txt)
