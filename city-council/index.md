@@ -75,3 +75,5 @@ These transcripts are saved from the closed captions from City Council meetings.
 [2022-07-12](/city-council/2022-07-12.txt)
 
 [2022-07-19](/city-council/2022-07-19.txt)
+
+[2022-09-06](/city-council/2022-09-06.txt)
