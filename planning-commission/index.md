@@ -23,3 +23,5 @@ These transcripts are saved from the closed captions from Planning Commission me
 [2022-07-28 Housing Element work session](/planning-commission/2022-07-28-housing-element-work-session.txt)
 
 [2022-07-28](/planning-commission/2022-07-28.txt)
+
+[2022-10-13](/planning-commission/2022-10-13.txt)
