@@ -31,3 +31,5 @@ These transcripts are saved from the closed captions from Planning Commission me
 [2022-12-08](/planning-commission/2022-12-08.txt)
 
 [2022-12-22](/planning-commission/2022-12-22.txt)
+
+[2022-02-23](/planning-commission/2022-02-23.txt)
