@@ -151,3 +151,5 @@ These transcripts are saved from the closed captions from City Council meetings.
 [2023-12-12](/city-council/2023-12-12.txt)
 
 [2024-01-09](/city-council/2024-01-09.txt)
+
+[2024-02-06](/city-council/2024-02-06.txt)
